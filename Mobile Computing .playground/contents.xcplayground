@@ -5,5 +5,7 @@
         <page name='1st Class Example'/>
         <page name='Tuples'/>
         <page name='Constants and Variables'/>
+        <page name='Operators'/>
+        <page name='ControlFlow If-Else'/>
     </pages>
 </playground>
